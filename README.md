@@ -1,4 +1,4 @@
-![Screenshot 2024-04-25 204729](https://github.com/vijayashreeb14/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/161238151/9f5bc164-1aa0-41a8-a19e-ce89b134db45)# EX No.4.1. CUT SECTION OF SOLIDS
+
 ## AIM
 To create the solid model from given drawing and section the solid model
 
